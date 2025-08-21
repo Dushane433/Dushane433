@@ -2,10 +2,14 @@
 
 
 
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 
-<p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -20,5 +24,12 @@
 </p>
 
 
-![Skills GIF](https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+</p>
+ 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+</p>
+
 
