@@ -2,12 +2,7 @@
 
 
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DushaneW&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -23,13 +18,11 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
- 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-</p>
+
+
+
 
 
