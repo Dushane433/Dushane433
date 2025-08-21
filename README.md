@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![Coding Animation](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
+![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 
 <p>
@@ -19,4 +20,5 @@
 </p>
 
 
-![Skills Animation](https://media.giphy.com/media/3o7TKP4H6mFmM2iM3i/giphy.gif)
+![Skills GIF](https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif)
+
