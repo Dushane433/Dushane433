@@ -1,4 +1,4 @@
-👋 Hi, I’m Dushane, 25, originally from Briarwood, California, a wealthy and bustling city in the United States. I’ve been living in Poland for the past 15 years, which has given me a unique perspective on technology and cross-cultural collaboration.
+👋 Hi, I’m Dushane, 25, 
 
 💻 I’m a Principal Web Application Security Specialist and Senior Developer, currently working in a corporate environment in Poland. My focus is on building secure, scalable, and maintainable web applications, while staying ahead of the latest trends in web security and software development.
 
