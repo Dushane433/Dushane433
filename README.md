@@ -1,10 +1,4 @@
-👋 Hi, I’m Dushane, 25, 
 
-💻 I’m a Principal Web Application Security Specialist and Senior Developer, currently working in a corporate environment in Poland. My focus is on building secure, scalable, and maintainable web applications, while staying ahead of the latest trends in web security and software development.
-
-🚀 I’m passionate about exploring new technologies, optimizing processes, and improving software security practices. I enjoy contributing to open-source projects, sharing knowledge, and collaborating on challenging problems with like-minded professionals.
-
-🌱 Outside of work, I’m always looking to learn new skills, experiment with innovative tech solutions, and connect with the developer community worldwide.
 
 
 
